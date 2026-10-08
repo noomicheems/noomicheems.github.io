@@ -1,0 +1,15 @@
+# NoomiCheems - LLMs Guide
+
+Play the original NoomiClone bar physics game online for free! Master swing, arch, tuck, and release timing directly in your browser with zero downloads.
+
+## Primary Pages & URLs
+- Homepage: https://noomicheems.github.io/
+- About Us: https://noomicheems.github.io/about-us
+
+## Games Collection
+- **Geo Dash - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/geo-dash
+- **NoomiCheems - Play NoomiClone Original Online** (Featured Game): https://noomicheems.github.io/
+- **NoomiCheems - Play NoomiClone Original Online**: https://noomicheems.github.io/game/noomicheems
+- **Poor Bunny - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/poor-bunny
+- **Ragdoll Hit - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/ragdoll-hit
+- **Wacky Flip - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/wacky-flip
