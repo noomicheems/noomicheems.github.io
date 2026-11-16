@@ -7,6 +7,7 @@ Play the original NoomiClone bar physics game online for free! Master swing, arc
 - About Us: https://noomicheems.github.io/about-us
 
 ## Games Collection
+- **Funny Wheels - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/funny-wheels
 - **Geo Dash - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/geo-dash
 - **NoomiCheems - Play NoomiClone Original Online** (Featured Game): https://noomicheems.github.io/
 - **NoomiCheems - Play NoomiClone Original Online**: https://noomicheems.github.io/game/noomicheems
