@@ -17,4 +17,6 @@ Play the original NoomiClone bar physics game online for free! Master swing, arc
 - **Ragdoll Hit - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/ragdoll-hit
 - **Ragdoll Knights: Battle Simulator - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/ragdoll-knights-battle-simulator
 - **Ragdoll Playground - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/ragdoll-playground
+- **Steal An Egg - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/steal-an-egg
+- **Throw Food For Animals - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/throw-food-for-animals
 - **Wacky Flip - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/wacky-flip
