@@ -20,3 +20,4 @@ Play the original NoomiClone bar physics game online for free! Master swing, arc
 - **Steal An Egg - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/steal-an-egg
 - **Throw Food For Animals - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/throw-food-for-animals
 - **Wacky Flip - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/wacky-flip
+- **Wobbly Delivery - Play Free Online | NoomiCheems**: https://noomicheems.github.io/game/wobbly-delivery
